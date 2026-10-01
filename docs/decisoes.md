@@ -12,5 +12,9 @@ Este documento serve como um histórico (semelhante a um *Architecture Decision 
 - **Decisão:** Utilizar **JavaScript**.
 - **Motivação:** Permite maior agilidade no desenvolvimento inicial do Produto Mínimo Viável (MVP), mantendo a porta aberta para uma futura adoção de TypeScript, caso o projeto cresça e exija maior tipagem.
 
+### Decisão 003: Fluxo Inicial (Landing Page)
+- **Decisão:** Utilizar uma Landing Page de apresentação como rota inicial (`/`) em vez de ir direto para o Login.
+- **Motivação:** Melhor UX (User Experience) e apresentação do produto, permitindo que o usuário conheça os benefícios (recursos, design) antes de se comprometer com um cadastro.
+
 ---
 *Este arquivo será atualizado continuamente conforme avançarmos.*
